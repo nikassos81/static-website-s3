@@ -22,3 +22,7 @@ This project demonstrates how to host a simple static website using Amazon S3. T
 ## Screenshots
 
 ![Website Screenshot](screenshot.png)
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
